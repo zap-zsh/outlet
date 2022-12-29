@@ -16,7 +16,7 @@ Allthis plugins are compatible with **[zap](https://github.com/zap-zsh/zap)**, T
 - [vim](https://github.com/zap-zsh/vim) - Vim plugin for zsh (alternative to standard Zsh vi mode).
 - [atmachine-prompt](https://github.com/zap-zsh/atmachine-prompt) - A Zsh prompt theme ( [user@machine] ➜ ).
 - [satoshi-prompt](https://github.com/zap-zsh/satoshi-prompt) - A Zsh prompt theme ( ₿ ➜ ).
-- [powerlevel10k](hyyps://github.com/romkatv/powerlevel10k) - A Zsh prompt theme
+- [powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh prompt theme
 - [singularisart-prompt](https://github.com/zap-zsh/singularisart-prompt) - A custom Zsh prompt theme.
 - [nvm](https://github.com/zap-zsh/nvm) - A simple `nvm` plugin for zsh.
 - [fzf](https://github.com/zap-zsh/fzf) - A helper plugin for users with `fzf` installed.
