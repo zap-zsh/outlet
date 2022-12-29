@@ -1,6 +1,8 @@
 # outlet
 ### A zsh plugin marketplace
 
+Allthis plugins are compatible with **[zap](https://github.com/zap-zsh/zap)**, The very minimal plugin manager
+
 - [supercharge](https://github.com/zap-zsh/supercharge) - 🔋Supercharge your zsh experience
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh.
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
