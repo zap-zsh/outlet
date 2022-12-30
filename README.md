@@ -23,5 +23,6 @@ Allthis plugins are compatible with **[zap](https://github.com/zap-zsh/zap)**, T
 - [fzf-tab](https://github.comAloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [fzf-tab-source](https://github.com/Freed-Wu/fzf-tab-source) - a collection of fzf-tab completion sources.
 - [fnm](https://github.com/zap-zsh/fnm) - A simple `fnm` plugin for zsh.
-- [zsh-lsd](https://github.com/wintermi/zsh-lsd) - Plugin for zsh to override `ls` and `tree` commands to use [lsd](https://github.com/Peltoche/lsd) instead.
+- [zsh-lsd](https://github.com/wintermi/zsh-lsd) - A simple zsh plugin to override `ls` and `tree` commands with [`lsd`](https://github.com/Peltoche/lsd) instead.
+- [zsh-rust](https://github.com/wintermi/zsh-rust) - A simple zsh plugin for the Rust programming language toolchain, including [`rustup`](https://rustup.rs/), `rustc` and `cargo`.
 - [conda-zsh-completion](https://github.com/conda-incubator/conda-zsh-completion) - Zsh completion for conda.
