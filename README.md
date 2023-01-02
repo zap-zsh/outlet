@@ -18,6 +18,7 @@ All of these plugins are compatible with the [**:zap: Zap**](https://www.zapzsh.
 - [satoshi-prompt](https://github.com/zap-zsh/satoshi-prompt) - A Zsh prompt theme ( ₿ ➜ ).
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh prompt theme
 - [singularisart-prompt](https://github.com/zap-zsh/singularisart-prompt) - A custom Zsh prompt theme.
+- [simple-prompt](https://github.com/zettlrobert/simple-prompt) - A simple, minimal two line zsh prompt.
 - [nvm](https://github.com/zap-zsh/nvm) - A simple `nvm` plugin for zsh.
 - [fzf](https://github.com/zap-zsh/fzf) - A helper plugin for users with `fzf` installed.
 - [fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
