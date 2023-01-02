@@ -1,8 +1,8 @@
 # outlet
 
-### A zsh plugin marketplace
+## A zsh plugin marketplace
 
-Allthis plugins are compatible with **[zap](https://github.com/zap-zsh/zap)**, The very minimal plugin manager
+All of these plugins are compatible with the [**:zap: Zap**](https://www.zapzsh.org/) minimal zsh plugin manager
 
 - [supercharge](https://github.com/zap-zsh/supercharge) - 🔋Supercharge your zsh experience
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh.
@@ -20,9 +20,10 @@ Allthis plugins are compatible with **[zap](https://github.com/zap-zsh/zap)**, T
 - [singularisart-prompt](https://github.com/zap-zsh/singularisart-prompt) - A custom Zsh prompt theme.
 - [nvm](https://github.com/zap-zsh/nvm) - A simple `nvm` plugin for zsh.
 - [fzf](https://github.com/zap-zsh/fzf) - A helper plugin for users with `fzf` installed.
-- [fzf-tab](https://github.comAloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
+- [fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [fzf-tab-source](https://github.com/Freed-Wu/fzf-tab-source) - a collection of fzf-tab completion sources.
 - [fnm](https://github.com/zap-zsh/fnm) - A simple `fnm` plugin for zsh.
 - [zsh-lsd](https://github.com/wintermi/zsh-lsd) - A simple zsh plugin to override `ls` and `tree` commands with [`lsd`](https://github.com/Peltoche/lsd) instead.
-- [zsh-rust](https://github.com/wintermi/zsh-rust) - A simple zsh plugin for the Rust programming language toolchain, including [`rustup`](https://rustup.rs/), `rustc` and `cargo`.
+- [zsh-golang](https://github.com/wintermi/zsh-golang) - A simple zsh plugin for the Go programming language toolchain.
+- [zsh-rust](https://github.com/wintermi/zsh-rust) - A simple zsh plugin for the Rust programming language toolchain.
 - [conda-zsh-completion](https://github.com/conda-incubator/conda-zsh-completion) - Zsh completion for conda.
