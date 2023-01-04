@@ -24,7 +24,9 @@ All of these plugins are compatible with the [**:zap: Zap**](https://www.zapzsh.
 - [fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [fzf-tab-source](https://github.com/Freed-Wu/fzf-tab-source) - a collection of fzf-tab completion sources.
 - [fnm](https://github.com/zap-zsh/fnm) - A simple `fnm` plugin for zsh.
+- [conda-zsh-completion](https://github.com/conda-incubator/conda-zsh-completion) - Zsh completion for conda.
 - [zsh-lsd](https://github.com/wintermi/zsh-lsd) - A simple zsh plugin to override `ls` and `tree` commands with [`lsd`](https://github.com/Peltoche/lsd) instead.
 - [zsh-golang](https://github.com/wintermi/zsh-golang) - A simple zsh plugin for the Go programming language toolchain.
 - [zsh-rust](https://github.com/wintermi/zsh-rust) - A simple zsh plugin for the Rust programming language toolchain.
-- [conda-zsh-completion](https://github.com/conda-incubator/conda-zsh-completion) - Zsh completion for conda.
+- [zsh-fnm](https://github.com/wintermi/zsh-fnm) - A simple zsh plugin for the fast and simple Node.js version manager (`fnm`).
+- [zsh-gcloud](https://github.com/wintermi/zsh-gcloud) - A simple zsh plugin for the Google Cloud Command Line Interface (gcloud CLI) completions.
