@@ -25,8 +25,9 @@ All of these plugins are compatible with the [**:zap: Zap**](https://www.zapzsh.
 - [fzf-tab-source](https://github.com/Freed-Wu/fzf-tab-source) - a collection of fzf-tab completion sources.
 - [fnm](https://github.com/zap-zsh/fnm) - A simple `fnm` plugin for zsh.
 - [conda-zsh-completion](https://github.com/conda-incubator/conda-zsh-completion) - Zsh completion for conda.
+- [zsh-brew](https://github.com/wintermi/zsh-brew) - A simple zsh plugin for the Homebrew package manager.
+- [zsh-gcloud](https://github.com/wintermi/zsh-gcloud) - A simple zsh plugin for the Google Cloud Command Line Interface (gcloud CLI) completions.
 - [zsh-lsd](https://github.com/wintermi/zsh-lsd) - A simple zsh plugin to override `ls` and `tree` commands with [`lsd`](https://github.com/Peltoche/lsd) instead.
+- [zsh-fnm](https://github.com/wintermi/zsh-fnm) - A simple zsh plugin for the fast and simple Node.js version manager (`fnm`).
 - [zsh-golang](https://github.com/wintermi/zsh-golang) - A simple zsh plugin for the Go programming language toolchain.
 - [zsh-rust](https://github.com/wintermi/zsh-rust) - A simple zsh plugin for the Rust programming language toolchain.
-- [zsh-fnm](https://github.com/wintermi/zsh-fnm) - A simple zsh plugin for the fast and simple Node.js version manager (`fnm`).
-- [zsh-gcloud](https://github.com/wintermi/zsh-gcloud) - A simple zsh plugin for the Google Cloud Command Line Interface (gcloud CLI) completions.
