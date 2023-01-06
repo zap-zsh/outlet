@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/github/license/zap-zsh/outlet.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 [![Link Checker](https://github.com/zap-zsh/outlet/actions/workflows/markdown-links.yml/badge.svg)](https://github.com/zap-zsh/outlet/actions/workflows/markdown-links.yml)
 [![GitHub stars](https://img.shields.io/github/stars/zap-zsh/outlet.svg)](https://github.com/zap-zsh/outlet/stargazers)
-![GitHub last commit](https://img.shields.io/github/last-commit/zap-zsh/outlet)(https://github.com/zap-zsh/outlet)
+[![GitHub last commit](https://img.shields.io/github/last-commit/zap-zsh/outlet)](https://github.com/zap-zsh/outlet)
 
 ## A zsh plugin marketplace
 
