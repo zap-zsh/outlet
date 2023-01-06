@@ -1,9 +1,13 @@
-# outlet
+# **:zap: Zap** Outlet
+
+[![License](https://img.shields.io/github/license/zap-zsh/outlet.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
+[![Link Checker](https://github.com/zap-zsh/outlet/actions/workflows/markdown-links.yml/badge.svg)](https://github.com/zap-zsh/outlet/actions/workflows/markdown-links.yml)
+[![GitHub stars](https://img.shields.io/github/stars/zap-zsh/outlet.svg)](https://github.com/zap-zsh/outlet/stargazers)
+[![GitHub last commit](https://img.shields.io/github/last-commit/zap-zsh/outlet)](https://github.com/zap-zsh/outlet)
 
 ## A zsh plugin marketplace
 
 All of these plugins are compatible with the [**:zap: Zap**](https://www.zapzsh.org/) minimal zsh plugin manager
-
 - [supercharge](https://github.com/zap-zsh/supercharge) - 🔋Supercharge your zsh experience
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh.
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
