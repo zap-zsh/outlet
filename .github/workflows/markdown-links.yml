@@ -1,4 +1,4 @@
-name: Check the links in the Outlet
+name: Link Checker
 
 on: push
 
