@@ -35,3 +35,4 @@ All of these plugins are compatible with the [**:zap: Zap**](https://www.zapzsh.
 - [zsh-fnm](https://github.com/wintermi/zsh-fnm) - A simple zsh plugin for the fast and simple Node.js version manager (`fnm`).
 - [zsh-golang](https://github.com/wintermi/zsh-golang) - A simple zsh plugin for the Go programming language toolchain.
 - [zsh-rust](https://github.com/wintermi/zsh-rust) - A simple zsh plugin for the Rust programming language toolchain.
+- [zsh-starship](https://github.com/wintermi/zsh-starship) - A simple zsh plugin to use the Starship prompt, along with a powerline theme.
