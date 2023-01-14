@@ -19,6 +19,7 @@ All of these plugins are compatible with the [**:zap: Zap**](https://www.zapzsh.
 - [sudo](https://github.com/zap-zsh/sudo) - sudo plugin from oh-my-zsh land.
 - [vim](https://github.com/zap-zsh/vim) - Vim plugin for zsh (alternative to standard Zsh vi mode).
 - [atmachine-prompt](https://github.com/zap-zsh/atmachine-prompt) - A Zsh prompt theme ( [user@machine] ➜ ).
+- [distro-prompt](https://github.com/MAHcodes/distro-prompt) - A Zsh prompt theme that renders the OS icon.
 - [satoshi-prompt](https://github.com/zap-zsh/satoshi-prompt) - A Zsh prompt theme ( ₿ ➜ ).
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh prompt theme
 - [singularisart-prompt](https://github.com/zap-zsh/singularisart-prompt) - A custom Zsh prompt theme.
