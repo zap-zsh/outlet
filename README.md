@@ -39,7 +39,4 @@ All of these plugins are compatible with the [**:zap: Zap**](https://www.zapzsh.
 - [zsh-starship](https://github.com/wintermi/zsh-starship) - A zsh plugin to use the Starship prompt, along with a powerline theme.
 
 ## CONTRIBUTING
-If you wish to contribute to this list, please make sure you respect the "- \[name\]\(url\) - Description" _(please note whitespaces and dashes)_ template when adding new lines. This is important for parsing reasons. For example:
-```md
-- [supercharge](https://github.com/zap-zsh/supercharge) - 🔋Supercharge your zsh experience
-```
+If you wish to contribute to this list, please make sure you respect the "- \[name\]\(url\) - Description" _(please note whitespaces and dashes)_ template when adding new lines. This is important for parsing reasons.
