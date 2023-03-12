@@ -37,7 +37,11 @@ All of these plugins are compatible with the [**:zap: Zap**](https://www.zapzsh.
 - [zsh-golang](https://github.com/wintermi/zsh-golang) - A zsh plugin for the Go programming language toolchain.
 - [zsh-rust](https://github.com/wintermi/zsh-rust) - A zsh plugin for the Rust programming language toolchain.
 - [zsh-starship](https://github.com/wintermi/zsh-starship) - A zsh plugin to use the Starship prompt, along with a powerline theme.
+
 - [zsh-fvm](https://github.com/olrtg/zsh-fvm) - A simple `fvm` (Flutter Version Manager) plugin for zsh.
+
+- [zsh-kubectl](https://github.com/chrishrb/zsh-kubectl) - A zsh plugin for the kubectl cli.
+
 
 ## CONTRIBUTING
 If you wish to contribute to this list, please make sure you respect the "- \[name\]\(url\) - Description" _(please note whitespaces and dashes)_ template when adding new lines. This is important for parsing reasons.
