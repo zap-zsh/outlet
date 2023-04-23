@@ -42,6 +42,8 @@ All of these plugins are compatible with the [**:zap: Zap**](https://www.zapzsh.
 - [zsh-fvm](https://github.com/olrtg/zsh-fvm) - A simple `fvm` (Flutter Version Manager) plugin for zsh.
 
 - [zsh-kubectl](https://github.com/chrishrb/zsh-kubectl) - A zsh plugin for the kubectl cli.
+- [git-alias](https://github.com/chivalryq/git-alias) - A zsh plugin for lots of handy git alias
+- [zsh-autojump](https://github.com/chivalryq/zsh-autojump) - A zsh plugin for autojump
 
 
 ## CONTRIBUTING
