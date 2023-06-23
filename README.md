@@ -45,6 +45,7 @@ All of these plugins are compatible with the [**:zap: Zap**](https://www.zapzsh.
 - [zsh-autojump](https://github.com/chivalryq/zsh-autojump) - A zsh plugin for autojump
 - [zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed
 - [sanekeybinds](https://github.com/embeddedpenguin/sanekeybinds) - Provides default keybinds for navigation like ctrl/alt + arrow keys/home/end/delete
+- [zsh-omz-autocomplete](https://github.com/atoftegaard-git/zsh-omz-autocomplete) - Provides oh-my-zsh like autocomplete functionality.
 
 
 ## CONTRIBUTING
