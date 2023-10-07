@@ -47,7 +47,8 @@ All of these plugins are compatible with the [**:zap: Zap**](https://www.zapzsh.
 - [sanekeybinds](https://github.com/embeddedpenguin/sanekeybinds) - Provides default keybinds for navigation like ctrl/alt + arrow keys/home/end/delete
 - [zsh-omz-autocomplete](https://github.com/atoftegaard-git/zsh-omz-autocomplete) - Provides oh-my-zsh like autocomplete functionality.
 - [zsh-system-clipboard](https://github.com/kutsan/zsh-system-clipboard) - System clipboard key bindings for Zsh Line Editor with vi mode
-- [web-search](https://github.com/zap-zsh/web-search) - Web Search plugin for Zsh
+- [web-search](https://github.com/zap-zsh/web-search) - Web Search plugin for zsh
+- [magic-enter](https://github.com/zap-zsh/magic-enter) - Magic enter plugin for zsh
 
 ## CONTRIBUTING
 If you wish to contribute to this list, please make sure you respect the "- \[name\]\(url\) - Description" _(please note whitespaces and dashes)_ template when adding new lines. This is important for parsing reasons.
