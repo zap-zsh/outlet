@@ -7,7 +7,7 @@
 
 ## A zsh plugin marketplace
 
-All of these plugins are compatible with the [**:zap: Zap**](https://www.zapzsh.org/) minimal zsh plugin manager
+All of these plugins are compatible with the [**:zap: Zap**](https://www.zapzsh.com/) minimal zsh plugin manager
 - [supercharge](https://github.com/zap-zsh/supercharge) - 🔋Supercharge your zsh experience
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh.
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
