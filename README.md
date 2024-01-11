@@ -39,6 +39,7 @@ All of these plugins are compatible with the [**:zap: Zap**](https://www.zapzsh.
 - [zsh-rust](https://github.com/wintermi/zsh-rust) - A zsh plugin for the Rust programming language toolchain.
 - [zsh-starship](https://github.com/wintermi/zsh-starship) - A zsh plugin to use the Starship prompt, along with a powerline theme.
 - [zsh-bob](https://github.com/wintermi/zsh-bob) - A zsh plugin for `bob` a cross-platform and easy-to-use Neovim version manager.
+- [zsh-mise](https://github.com/wintermi/zsh-mise) - A zsh plugin for `mise` (formerly called `rtx`) a fast polyglot version manager. A replacement for tools like nvm, nodenv, rbenv, rvm, chruby, pyenv, etc.
 - [zsh-fvm](https://github.com/olrtg/zsh-fvm) - A simple `fvm` (Flutter Version Manager) plugin for zsh.
 - [zsh-kubectl](https://github.com/chrishrb/zsh-kubectl) - A zsh plugin for the kubectl cli.
 - [git-alias](https://github.com/chivalryq/git-alias) - A zsh plugin for lots of handy git alias
