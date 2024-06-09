@@ -8,6 +8,7 @@
 ## A zsh plugin marketplace
 
 All of these plugins are compatible with the [**:zap: Zap**](https://www.zapzsh.com/) minimal zsh plugin manager
+
 - [supercharge](https://github.com/zap-zsh/supercharge) - 🔋Supercharge your zsh experience
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh.
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
@@ -39,6 +40,8 @@ All of these plugins are compatible with the [**:zap: Zap**](https://www.zapzsh.
 - [zsh-rust](https://github.com/wintermi/zsh-rust) - A zsh plugin for the Rust programming language toolchain.
 - [zsh-starship](https://github.com/wintermi/zsh-starship) - A zsh plugin to use the Starship prompt, along with a powerline theme.
 - [zsh-bob](https://github.com/wintermi/zsh-bob) - A zsh plugin for `bob` a cross-platform and easy-to-use Neovim version manager.
+- [zsh-mise](https://github.com/wintermi/zsh-mise) - A zsh plugin for `mise` (formerly called `rtx`) a fast polyglot version manager, replacing tools like nvm, nodenv, rbenv, rvm, chruby, pyenv, etc.
+- [zsh-oh-my-posh](https://github.com/wintermi/zsh-oh-my-posh) - A zsh plugin to manage the [Oh My Posh](https://ohmyposh.dev/) prompt theme engine.
 - [zsh-fvm](https://github.com/olrtg/zsh-fvm) - A simple `fvm` (Flutter Version Manager) plugin for zsh.
 - [zsh-kubectl](https://github.com/chrishrb/zsh-kubectl) - A zsh plugin for the kubectl cli.
 - [git-alias](https://github.com/chivalryq/git-alias) - A zsh plugin for lots of handy git alias
@@ -50,6 +53,8 @@ All of these plugins are compatible with the [**:zap: Zap**](https://www.zapzsh.
 - [web-search](https://github.com/zap-zsh/web-search) - Web Search plugin for zsh
 - [magic-enter](https://github.com/zap-zsh/magic-enter) - Magic enter plugin for zsh
 - [omz-take](https://github.com/GianniBYoung/omz-take) - `Take` function from 'oh my zsh'
+- [fzf-zellij](https://github.com/TiagoAraujoDev/fzf-zellij) - ZSH plugin to give zellij extra powers using fzf
 
 ## CONTRIBUTING
+
 If you wish to contribute to this list, please make sure you respect the "- \[name\]\(url\) - Description" _(please note whitespaces and dashes)_ template when adding new lines. This is important for parsing reasons.
