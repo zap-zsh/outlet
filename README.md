@@ -52,6 +52,7 @@ All of these plugins are compatible with the [**:zap: Zap**](https://www.zapzsh.
 - [zsh-system-clipboard](https://github.com/kutsan/zsh-system-clipboard) - System clipboard key bindings for Zsh Line Editor with vi mode
 - [web-search](https://github.com/zap-zsh/web-search) - Web Search plugin for zsh
 - [magic-enter](https://github.com/zap-zsh/magic-enter) - Magic enter plugin for zsh
+- [omz-take](https://github.com/GianniBYoung/omz-take) - `Take` function from 'oh my zsh'
 - [fzf-zellij](https://github.com/TiagoAraujoDev/fzf-zellij) - ZSH plugin to give zellij extra powers using fzf
 
 ## CONTRIBUTING
