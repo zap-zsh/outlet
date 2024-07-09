@@ -54,6 +54,7 @@ All of these plugins are compatible with the [**:zap: Zap**](https://www.zapzsh.
 - [magic-enter](https://github.com/zap-zsh/magic-enter) - Magic enter plugin for zsh
 - [omz-take](https://github.com/GianniBYoung/omz-take) - `Take` function from 'oh my zsh'
 - [fzf-zellij](https://github.com/TiagoAraujoDev/fzf-zellij) - ZSH plugin to give zellij extra powers using fzf
+- [zabb](https://github.com/Mellbourn/zabb) - a zsh plugin for finding z abbreviations
 
 ## CONTRIBUTING
 
