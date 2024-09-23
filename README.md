@@ -26,6 +26,7 @@ All of these plugins are compatible with the [**:zap: Zap**](https://www.zapzsh.
 -   [singularisart-prompt](https://github.com/zap-zsh/singularisart-prompt) - A custom Zsh prompt theme.
 -   [simple-prompt](https://github.com/zettlrobert/simple-prompt) - A simple, minimal two line zsh prompt.
 -   [dynamic-prompt](https://github.com/sadikeey/zsh-dynamic-prompt) - A dynamic prompt which changes everytime you open new session.
+-   [mise-prompt](https://github.com/andmev/mise-prompt) - A simple prompt with mise integration.
 -   [nvm](https://github.com/zap-zsh/nvm) - A simple `nvm` plugin for zsh.
 -   [fzf](https://github.com/zap-zsh/fzf) - A helper plugin for users with `fzf` installed.
 -   [fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
