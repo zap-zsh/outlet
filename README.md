@@ -45,6 +45,7 @@ All of these plugins are compatible with the [**:zap: Zap**](https://www.zapzsh.
 -   [zsh-oh-my-posh](https://github.com/wintermi/zsh-oh-my-posh) - A zsh plugin to manage the [Oh My Posh](https://ohmyposh.dev/) prompt theme engine.
 -   [zsh-fvm](https://github.com/olrtg/zsh-fvm) - A simple `fvm` (Flutter Version Manager) plugin for zsh.
 -   [zsh-kubectl](https://github.com/chrishrb/zsh-kubectl) - A zsh plugin for the kubectl cli.
+-   [zsh-ssh-agent](https://github.com/sdiebolt/zsh-ssh-agent) - A Zsh plugin that starts `ssh-agent` automatically.
 -   [git-alias](https://github.com/chivalryq/git-alias) - A zsh plugin for lots of handy git alias
 -   [zsh-autojump](https://github.com/chivalryq/zsh-autojump) - A zsh plugin for autojump
 -   [zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed
