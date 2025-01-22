@@ -56,6 +56,7 @@ All of these plugins are compatible with the [**:zap: Zap**](https://www.zapzsh.
 -   [omz-take](https://github.com/GianniBYoung/omz-take) - `Take` function from 'oh my zsh'
 -   [fzf-zellij](https://github.com/TiagoAraujoDev/fzf-zellij) - ZSH plugin to give zellij extra powers using fzf
 -   [zabb](https://github.com/Mellbourn/zabb) - a zsh plugin for finding z abbreviations
+-   [omz-gitignore](https://github.com/valerius21/omz-gitignore) - `gi` function from 'oh my zsh' for creating gitignore files
 
 ## CONTRIBUTING
 
